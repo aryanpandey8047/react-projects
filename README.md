@@ -1,6 +1,5 @@
 For Side navigation bar
 1. Clone the Repository:
-If you haven't already, clone the repository to your local machine.
 ''bash
 git clone <repository_url>
 cd react-projects\side-nav-bar\side-nav-bar
